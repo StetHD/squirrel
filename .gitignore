@@ -1,0 +1,15 @@
+*.ncb
+*.suo
+*.lib
+*.user
+*.obj
+
+sqstdlib/Debug/*
+sqstdlib/Release/*
+
+squirrel/Debug/*
+squirrel/Release/*
+
+sq/Debug/*
+sq/Release/*
+/bin/sq.exe
